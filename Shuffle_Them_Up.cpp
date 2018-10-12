@@ -68,5 +68,5 @@ int main()
 		if(ans==s) printf("%d %d\n",i+1,cnt);
 		else printf("%d %d\n",i+1,-1);
 	}
-}
+}//Godyc666到此一游
 		
